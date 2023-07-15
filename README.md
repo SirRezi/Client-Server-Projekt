@@ -6,13 +6,13 @@ Dieses Projekt enthält einen einfachen Client und Server, die in Python impleme
 - Clone das Repository auf deinen lokalen Computer.
 - Navigiere in das Projektverzeichnis.
 Verwendung
-## Serverseite
+## Server.py
 - Öffne die server.py-Datei.
 - Konfiguriere den Server-IP-Adresse und Port in den entsprechenden Variablen.
 - Führe das Skript aus: python server.py.
 - Der Server lauscht nun auf eingehende Verbindungen und wartet auf den Client.
 
-## Clientseite
+## Client.py
 - Öffne die client.py-Datei.
 - Konfiguriere die Server-IP-Adresse und Port in den entsprechenden Variablen.
 - Führe das Skript aus: python client.py.
