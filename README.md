@@ -2,10 +2,10 @@
 Dieses Projekt enthält einen einfachen Client und Server, die in Python implementiert sind. Es ermöglicht die Kommunikation zwischen einem Client und einem Server über eine gesicherte Verbindung.
 
 ## Installation
-- Stelle sicher, dass Python  installiert ist. **Installationsanweisungen**
+- Stelle sicher, dass Python  installiert ist.
 - Clone das Repository auf deinen lokalen Computer.
 - Navigiere in das Projektverzeichnis.
-Verwendung
+  
 ## Server.py
 - Öffne die server.py-Datei.
 - Konfiguriere den Server-IP-Adresse und Port in den entsprechenden Variablen.
